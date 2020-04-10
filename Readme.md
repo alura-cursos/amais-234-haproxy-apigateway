@@ -1,8 +1,8 @@
 # HAPROXY como API Gateway - Alura mais
 
 - Definir os 2 serviços docker e a instalação do HAPROXY no servidor
-- Configurar os tipos de load-balance para roundrobin e weight
-- Visualizar o load com instâncias rodando e não rodando
+- Configurar os tipos de load-balance para utilizar ACL
+
 
 ### Referências:
 
