@@ -18,7 +18,7 @@
 2. Instalar o docker: 
 ```sh 
     sudo su -
-    apt-get install curl
+    apt-get install curl git
     curl -fsSL https://get.docker.com | sh
     docker ps -a
 ```
